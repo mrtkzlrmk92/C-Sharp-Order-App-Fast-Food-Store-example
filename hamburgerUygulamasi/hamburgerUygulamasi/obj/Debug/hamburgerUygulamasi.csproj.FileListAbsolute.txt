@@ -1,0 +1,10 @@
+C:\Users\fatma.ozturk\Desktop\ERP48\hamburgerUygulamasi\hamburgerUygulamasi\bin\Debug\hamburgerUygulamasi.exe.config
+C:\Users\fatma.ozturk\Desktop\ERP48\hamburgerUygulamasi\hamburgerUygulamasi\bin\Debug\hamburgerUygulamasi.exe
+C:\Users\fatma.ozturk\Desktop\ERP48\hamburgerUygulamasi\hamburgerUygulamasi\bin\Debug\hamburgerUygulamasi.pdb
+C:\Users\fatma.ozturk\Desktop\ERP48\hamburgerUygulamasi\hamburgerUygulamasi\obj\Debug\hamburgerUygulamasi.csprojAssemblyReference.cache
+C:\Users\fatma.ozturk\Desktop\ERP48\hamburgerUygulamasi\hamburgerUygulamasi\obj\Debug\hamburgerUygulamasi.Form1.resources
+C:\Users\fatma.ozturk\Desktop\ERP48\hamburgerUygulamasi\hamburgerUygulamasi\obj\Debug\hamburgerUygulamasi.Properties.Resources.resources
+C:\Users\fatma.ozturk\Desktop\ERP48\hamburgerUygulamasi\hamburgerUygulamasi\obj\Debug\hamburgerUygulamasi.csproj.GenerateResource.cache
+C:\Users\fatma.ozturk\Desktop\ERP48\hamburgerUygulamasi\hamburgerUygulamasi\obj\Debug\hamburgerUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\fatma.ozturk\Desktop\ERP48\hamburgerUygulamasi\hamburgerUygulamasi\obj\Debug\hamburgerUygulamasi.exe
+C:\Users\fatma.ozturk\Desktop\ERP48\hamburgerUygulamasi\hamburgerUygulamasi\obj\Debug\hamburgerUygulamasi.pdb
